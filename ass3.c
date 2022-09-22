@@ -1,8 +1,5 @@
 /*****************
 *Gal Giladi
-*312491616
-*01
-*ass3
 *****************/
 #include <stdio.h>
 int counter1 = 0;
